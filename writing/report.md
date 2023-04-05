@@ -1,4 +1,4 @@
-# Report by Add Your Name
+# Report by Jeff & Aidan
 
 ## Data
 
@@ -26,7 +26,9 @@ The supplemental production was created through the use of DALL-E. We asked for 
 
 ## Analysis
 
-TODO: Reflect on the quality of your generated text. If you adjusted your strategy along the way, describe what you tried, what worked well and what did not.
+Our generated text is *much* better than our initial attempt. We initially used subtitle files from 11 different movies, and the resulting text--no matter how much we tweaked the number of epochs--was always incoherent, probably because the contents of those 11 movies varied *drastically* (compare the dialogue, or lack thereof, in *WALL-E* to something like *Soylent Green*). We pivoted and went with synopsis files for the same 11 movies, hoping that more similarly structured content would help keep some semblance of consistency and coherence in the generated text.
+
+This was a *major* improvement, but only after *severely* cranking up the number of training epochs. Since the input text was much, *much* smaller, we had to iterate through the training process over 100 times more to achieve results that were satisfactory and showed losses similar to the generation using the massive subtitle file.
 
 ## Carbon Footprint
 
