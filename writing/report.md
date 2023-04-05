@@ -6,14 +6,15 @@ TODO: Describe the data used in your project and how you obtained it. Cite (prov
 
 ## Text Generation
 
-TODO: Describe the techniques used for an automated generation of your script synopsis. Cite (provide a link to) any sources you have used. Include your generated text (or its snippet) below. If you manually modified your synopsis for it to make more sense, include modified synopsis below.
+We followed the instructor provided tutorial [here, on Tensorflow](https://www.tensorflow.org/text/tutorials/text_generation#build_the_model), making some adjustments where necessary. Those adjustments include (but aren't limited to) tweaking the process of collecting the input file, *heavily* increasing the number of training epochs, and adjusting the starting characters when creating a new prediction.
 
 ```
-Text Here
+The story takes place in the future where the greenhouse gases have caused the polar icecaps to melt, with the rest of the robot childs and gives him the bad news that his estimate of years is now down to days before hereve codes with the apsears in video clips behind the black hole Gquan't stand till be a trap.
 ```
 
 ```
-(Optional) Modified Synopsis
+MODIFIED VERSION:
+The story takes place in the future where the greenhouse gases have caused the polar icecaps to melt. The robot children give the bad news that the estimate of years is now down to days before the code will appear in video clips to make the black hole a trap.
 ```
 
 ## Supplemental Production
