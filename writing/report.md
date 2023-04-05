@@ -19,7 +19,10 @@ The story takes place in the future where the greenhouse gases have caused the p
 
 ## Supplemental Production
 
-TODO: Describe the supplemental production you have created. Include an image of a poster.
+The supplemental production was created through the use of DALL-E. We asked for a movie poster for a movie about a climate disaster brought about by robot children. The stark yellow-and-black coloring and the pictured barren wasteland definitely convey the feeling we were hoping to see. The looming robot hand in the corner of the poster is a particularly nice touch.
+
+![Movie Poster](movie-poster.png "Movie Poster")
+
 
 ## Analysis
 
