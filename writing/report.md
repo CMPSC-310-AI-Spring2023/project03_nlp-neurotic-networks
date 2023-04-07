@@ -6,7 +6,7 @@ For our project, we ended up using two sets of data, the first of them we ended 
 
 ## Text Generation
 
-We followed the instructor provided tutorial [here, on Tensorflow](https://www.tensorflow.org/text/tutorials/text_generation#build_the_model), making some adjustments where necessary. Those adjustments include (but aren't limited to) tweaking the process of collecting the input file, *heavily* increasing the number of training epochs, and adjusting the starting characters when creating a new prediction.
+We followed the instructor provided tutorial [here, on Tensorflow](https://www.tensorflow.org/text/tutorials/text_generation#build_the_model), making some adjustments where necessary. Those adjustments include (but aren't limited to) tweaking the process of collecting the input file, which included mounting our google drive to a Colab file, *heavily* increasing the number of training epochs from around 30 up to 150, and adjusting the starting characters when creating a new prediction to add some variety to our output, as well as to make it more coherent.
 
 ```
 The story takes place in the future where the greenhouse gases have caused the polar icecaps to melt, with the rest of the robot childs and gives him the bad news that his estimate of years is now down to days before hereve codes with the apsears in video clips behind the black hole Gquan't stand till be a trap.
