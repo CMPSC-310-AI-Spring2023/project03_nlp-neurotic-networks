@@ -23,7 +23,6 @@ The supplemental production was created through the use of DALL-E. We asked for 
 
 ![Movie Poster](movie-poster.png "Movie Poster")
 
-
 ## Analysis
 
 Our generated text is *much* better than our initial attempt. We initially used subtitle files from 11 different movies, and the resulting text--no matter how much we tweaked the number of epochs--was always incoherent, probably because the contents of those 11 movies varied *drastically* (compare the dialogue, or lack thereof, in *WALL-E* to something like *Soylent Green*). We pivoted and went with synopsis files for the same 11 movies, hoping that more similarly structured content would help keep some semblance of consistency and coherence in the generated text.
