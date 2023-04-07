@@ -36,6 +36,4 @@ The carbon footprint of our text generation implementation is most likely insign
 
 ## Challenges and Learning Experiences
 
-TODO: Discuss any challenges you have encountered during the work on this lab and describe what have you learned.
-
 Some challenges we encountered during our work on this lab inculde managing our input data, as well as tweaking our model in slight ways to allow for the best text generation possible. As for our input data, we ran into a problem with our first iteration, as it was subtitle data filled with numbers, time-stamps, symbols, and sounds. This caused us to make a choice to either, parse through the thousands of lines of subtitle data and attempt to clean it up perfectly, or to just roll with it. We decided to just use the raw subtitle data, but it led to an undesireable output. To combat this, we ended up completely changing our input data to something more manageable. The tweaks to out model were a bit frustrating, as it was hard to find the sweet-spot what ended with the best loss possible. Because of this, however, we both ended up becoming more familiar with overfitting and underfitting, as well as the entire process of running data through a NN.
